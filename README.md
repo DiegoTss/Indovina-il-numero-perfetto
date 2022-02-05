@@ -1,2 +1,3 @@
 # Indovina-il-numero-perfetto
-Questa è una versione di Indovina il numero con il massimo delle funzionalità.
+Questa è una versione di Indovina il numero con il massimo delle funzionalità: due modalità di gioco (una normale nella quale il computer sceglierà un numero e il giocatore dovrà indovinarlo, e una invertita nella quale il giocatore sceglie un numero ed il comupter dovrà indovinarlo); una raccolta dei dati delle partite giocate alla quale si possono aggiungere informazioni personali alle singole partite. Il tutto ovviamente a prova di bug.
+Potrà sembrare stupido aggiungere così tante funzionalità ad un gioco fatto per essere semplice, ma è stato un ottimo esercizio e mi ha obbligato a trovare strade alternative per risolvere problemi a cui non ne venivo a capo.
